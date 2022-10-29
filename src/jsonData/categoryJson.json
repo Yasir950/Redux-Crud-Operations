@@ -1,0 +1,17 @@
+[{
+    "Id":1,
+    "name":"Bus"
+},
+{
+    "id":2,
+    "name":"SUV"
+},
+{
+    "id":3,
+    "name":"Sedan"
+},
+{
+    "id":4,
+    "name":"Hatchback"
+}
+]
